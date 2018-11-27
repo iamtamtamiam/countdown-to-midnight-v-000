@@ -7,5 +7,6 @@ def countdown
     number -= 1 
   end 
   
-  Return 
+  Return "HAPPY NEW YEAR!"
+  
 end
